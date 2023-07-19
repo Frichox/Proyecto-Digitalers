@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+body {
+    margin: auto;
+    max-width: 1200px;
+}
+
+nav {
+    background-color: #f9bd9a;
+}
+header{
+    background-color: #fef6df;
+}
+.logoPastel{
+    max-width: 120px;
+}
+.imagenHeader{
+    max-width: 1200px;
+}
+.bgColor{
+    background-color: #fef6df;
+}
+h1{
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 600;
+    padding: 10px 0;    
+}
+h2 {
+    text-align: left;
+    font-size: 1.8rem;
+    font-weight: 500;
+    padding: 10px 0;
+    margin-left: 20px;
+}
+.imgProyecto{
+    max-width: 600px;
+}
+.footer { 
+	width: auto;
+	height: auto;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	background-color: #f9bd9a;
+	}
+.textFooter{
+    margin-top: 10px;
+}
+ .footerIcon {
+ 	width: 40px;
+    margin-left: 10px;
+}
+.textServicios{
+    text-align: justify;
+    font-size: 1.3rem;
+}
+.imgServicios1{
+    max-width: 600px;
+    
+}
+.imgContacto{
+    max-width: 400px;
+}
